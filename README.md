@@ -12,6 +12,6 @@ Adapted from the file our lovely PA David created for us
 
 # Step 3: Working on the project
 
-# Step 4: Push everything back to my Repositoriey
+# Step 4: Push everything(necessary) back to my Repositoriey
 
 # Step...never ends
