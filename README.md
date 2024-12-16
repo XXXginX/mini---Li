@@ -8,7 +8,7 @@ Please don't look at it if you are not my prof :-> Many thanks
 # Step 1: Create Virtual environment
 Adapted from the file our lovely PA David created for us
 
-# Step 2: Pip! All packages / Change toml file - dev and pip once
+# Step 2: Pip! All packages / Change toml file and pip once
 
 # Step 3: Working on the project
 
